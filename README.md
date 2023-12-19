@@ -15,16 +15,16 @@ Welcome to the Qualys Credential Scanning Project! This project provides a user-
 
 # Project Features
 
-Credential Configuration: Easily set up and manage Qualys credentials for scanning.
+ -Credential Configuration: Easily set up and manage Qualys credentials for scanning.
 Secure storage and seamless updates of authentication details.
 
-Scanning Profiles: Define and customize scanning profiles for specific needs.
+- Scanning Profiles: Define and customize scanning profiles for specific needs.
 Tailor scans for vulnerability assessments, compliance checks, and more.
 
-Automated Scanning: Schedule automated scans at specified intervals for continuous monitoring.
+- Automated Scanning: Schedule automated scans at specified intervals for continuous monitoring.
 Ensure timely detection of potential vulnerabilities and security risks.
 
-Detailed Reporting: Receive detailed reports post-scans from Qualys.
+- Detailed Reporting: Receive detailed reports post-scans from Qualys.
 Insights into identified vulnerabilities, severity levels, and actionable recommendations.
 Getting Started
 
