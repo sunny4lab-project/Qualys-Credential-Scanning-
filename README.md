@@ -7,11 +7,11 @@ Welcome to the Qualys Credential Scanning Project! This project provides a user-
 <img width="955" alt="Screenshot 2023-12-18 215131" src="https://github.com/sunny4lab-project/Qualys-Credential-Scanning-/assets/139194279/141e8f04-ec3a-45dc-b0c9-acd3b31b13ab">
 
 
-prerequisite
+**prerequisite**
 
-Virtual Appliance Setup
-VM Machine running Windows or Linux (e.g VMware, VirtualBox, etc)
-Create a Scan Option Profile
+- Virtual Appliance Setup
+- VM Machine running Windows or Linux (e.g VMware, VirtualBox, etc)
+- Create a Scan Option Profile
 
 # Project Features
 
