@@ -15,7 +15,7 @@ Welcome to the Qualys Credential Scanning Project! This project provides a user-
 
 # Project Features
 
- -Credential Configuration: Easily set up and manage Qualys credentials for scanning.
+ - Credential Configuration: Easily set up and manage Qualys credentials for scanning.
 Secure storage and seamless updates of authentication details.
 
 - Scanning Profiles: Define and customize scanning profiles for specific needs.
